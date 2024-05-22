@@ -8,13 +8,8 @@ especialmente abordando a escassez de informações para esses acompanhantes e p
 Nosso projeto visa a humanização dessa experiência, ao mesmo tempo em que busca inovações nos processos de atendimento e espera, com foco especial nos públicos jovem e infantil.
 
  Visão Geral da Solução:
+A solução proposta, centrada na tecnologia Edge, consiste na implementação de um sistema de monitoramento contínuo da temperatura e da umidade das salas do hospital que requerem controle rigoroso dessas variáveis. Os dados são coletados, notificando-os sobre qualquer desvio dos parâmetros estabelecidos. Além disso, será desenvolvido um circuito simulado no site Wokwi, compatível com o ambiente Node-RED, permitindo assim o envio direto de mensagens a partir do dispositivo. Esse sistema integrado visa melhorar significativamente a comunicação entre o hospital e os responsáveis, proporcionando um acompanhamento mais eficaz e personalizado, contribuindo assim para uma experiência mais satisfatória e humanizada no ambiente hospitalar.
 
-A solução proposta, centrada na tecnologia Edge, consiste na implementação de um sistema de lembretes automatizados,
-os quais serão enviados aos responsáveis pelos pacientes via WhatsApp, a fim de notificá-los sobre consultas, exames,
-cirurgias e outras etapas relevantes do tratamento. Além disso, será desenvolvido um circuito simulado no site Wokwi, 
-compatível com o ambiente Node-RED, permitindo assim o envio direto de mensagens a partir do dispositivo. 
-Esse sistema integrado visa melhorar significativamente a comunicação entre o hospital e os pacientes, proporcionando um acompanhamento mais eficaz e personalizado, 
-contribuindo assim para uma experiência mais satisfatória e humanizada no ambiente hospitalar.
 
 
 https://wokwi.com/projects/398010406917605377
