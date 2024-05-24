@@ -12,3 +12,9 @@ A solução proposta, centrada na tecnologia Edge, consiste na implementação d
 
 
 https://wokwi.com/projects/398010406917605377
+
+RM Enzo Teles de moura 553899
+RM Matheus bering zottis 94119
+RM Gabriel Borba  553187
+RM Nicolas lemos ribeiro 553273
+
